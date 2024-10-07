@@ -1,2 +1,6 @@
 git config --global user.name RenanZenaro
 git config --global user.email renanzenaro@hotmail.com
+
+descricao projeto acustico: Nós, da banda 3 em 1, desenvolvemos um projeto acústico pensando na diversidade de necessidades dos bares locais. Reconhecemos que nem todos os estabelecimentos têm demanda para uma banda completa ou recursos financeiros para bancá-la. Por isso, adaptamos nosso repertório para oferecer uma experiência musical completa utilizando apenas voz, violão e cajón.
+
+Compreendemos que, em muitas ocasiões, os proprietários de bares, restaurantes e lanchonetes procuram por um som mais suave e atmosférico, ideal para proporcionar um ambiente agradável para seus clientes desfrutarem do local. Assim, atendemos às solicitações de voz, violão e cajón, visando contribuir para uma atmosfera acolhedora e mais tranquila no estabelecimento.

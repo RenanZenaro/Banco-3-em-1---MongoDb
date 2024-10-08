@@ -14,7 +14,7 @@ show collections
 db.createCollection("banda")
 
 --CREATE
-db.heroes.insertOne({
+db.banda3em1Db.insertOne({
     logo: "",
     nome: "Banda 3 em 1",
     integrantes: ["Renan Zenaro", "Lucas Pagnota", "Nicolly Kannanda", "Leando Alves"],
